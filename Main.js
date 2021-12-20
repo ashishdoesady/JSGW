@@ -32,3 +32,4 @@ class Rect
 
     }
 }
+console.log("JSGW is running");
