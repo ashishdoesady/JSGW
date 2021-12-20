@@ -6,7 +6,7 @@ class App extends Jsen
 {
 
 }
-class Vector
+class Vector2
 {
     constructor(x,y)
     {
@@ -16,7 +16,7 @@ class Vector
     Up=()=>new Vector(0,1);
     Left=()=>new Vector(1,0);
 }
-class Shape
+class Rect
 {
 
     constructor(color="black",size,position)
